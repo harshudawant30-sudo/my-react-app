@@ -12,4 +12,4 @@ git push origin update_logo
 gh pr create --base main --head update_logo --title "Update logo" --body "Updated logo and link"
 gh pr merge --merge
 
-https://github.com/harshudawant30-sudo/my-react-app
+# REPO_URL https://github.com/harshudawant30-sudo/my-react-app
